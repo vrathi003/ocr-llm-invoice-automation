@@ -361,7 +361,7 @@ Built by **Vaibhav Rathi** while at R Systems (2021-2025), working with a US hea
 - **LinkedIn:** [linkedin.com/in/vaibhav-rathi-ai](https://linkedin.com/in/vaibhav-rathi-ai)
 - **Email:** vaibhav.rathi1223@gmail.com
 - **Medium:** Technical writing on production ML systems
-- **Open to:** Staff Data Scientist / Senior MLE roles
+- **Open to:** Staff Data Scientist / Lead Data Scientist / Senior MLE roles
 
 ---
 
